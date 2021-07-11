@@ -9,4 +9,5 @@ Modelo BMPN Previsto ![BMPN Modelo previsto](https://github.com/calupa/TFG/blob/
 <br><br> Alpha Petri Net añadiendo Inicio y Final Conformidad ![Alpha Petri Net añadiendo Inicio y Final Conformidad](https://github.com/calupa/TFG/blob/1d516ae33f7af8bbea5f200913c0d851fe7a1a76/AnalisisAlphaPetriAlterado.png)
 <br><br> Alpha Petri Net Algoritmo ILP ![Alpha Petri Net Algoritmo ILP](https://github.com/calupa/TFG/blob/c48e6bf31647deac4883bad58068b41fcebfc626/Petri%20Net%20ILP.png)
 <br><br> Alpha Petri Net Algoritmo ILP Conformidad ![Alpha Petri Net Algoritmo ILP Conformidad](https://github.com/calupa/TFG/blob/1d516ae33f7af8bbea5f200913c0d851fe7a1a76/Verificaci%C3%B3nConformidad%20ILP.png)
+<br><br> BPMN pizzería ![BPMN pizzería](https://github.com/calupa/TFG/blob/1a56156b918509aef952bc947ca57146e2bc1759/BPMN_pizza.png)
 
